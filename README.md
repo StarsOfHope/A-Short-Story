@@ -19,5 +19,3 @@ First Website
 The Emphyerian Confederation, meanwhile, strenthened, as settlements became towns and towns became cities. It was a miracle for civilization to develop in the barren wastelands of the north. Unfortunately, when Emphyerian leaders refused Xypheris' calls for soldiers, Eldechian military forces started consolidating at the Emphyerian borders. To Xypheris, refusal was tantamount to treason. He planned to make an example of Emphyeria before launching his crusade. Unbeknownst to the human nations, major events were unfolding in the demon's dominion. A poewrful demon queen has arisen among her people, ending the endless fighting of the demon clans after their failed invasion. Gathering her forces, she patiently waited for the human nations to weaken. Finally, the human menace will be vanquished, with the heroes no longer alive to save them. She will bring salvation for her demon brethren as the plentiful resources of the human world will be theirs. Her name is Queen Sakrieon.
 
 to be continued...
-
-    </body>
