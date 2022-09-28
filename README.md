@@ -1,8 +1,7 @@
-# A Short Story
+# A Brief Chronicle of Emphyeria
 
 <head>
 
-<title> A Brief Chronicle of Emphyeria </title>
 </head>
 
 <body>
