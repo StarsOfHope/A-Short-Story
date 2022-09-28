@@ -1,10 +1,6 @@
 # A Short Story
 First Website
 <head>
-<style>
-h1 {color:red}
-body {background:#C3D17F}
-</style>
 
 <title> A Brief Chronicle of Emphyeria </title>
 </head>
