@@ -19,6 +19,8 @@ The Emphyerian Confederation, meanwhile, strenthened, as settlements became town
     <br>
     <br>
     to be continued...
+    <br>
+    <br>
     
 <img src="https://static.wikia.nocookie.net/kingdomrushtd/images/d/d6/Pedia_tower_Knights_Barracks.png/revision/latest?cb=20170817222430">
     <br>
