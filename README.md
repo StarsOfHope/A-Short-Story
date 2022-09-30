@@ -18,7 +18,7 @@
 The Emphyerian Confederation, meanwhile, strenthened, as settlements became towns and towns became cities. It was a miracle for civilization to develop in the barren wastelands of the north. Unfortunately, when Emphyerian leaders refused Xypheris' calls for soldiers, Eldechian military forces started consolidating at the Emphyerian borders. To Xypheris, refusal was tantamount to treason. He planned to make an example of Emphyeria before launching his crusade. Unbeknownst to the human nations, major events were unfolding in the demon's dominion. A poewrful demon queen has arisen among her people, ending the endless fighting of the demon clans after their failed invasion. Gathering her forces, she patiently waited for the human nations to weaken. Finally, the human menace will be vanquished, with the heroes no longer alive to save them. She will bring salvation for her demon brethren as the plentiful resources of the human world will be theirs. Her name is Queen Sakrieon.
     
     <br>
-<img src="https://static.wikia.nocookie.net/kingdomrushtd/images/d/d6/Pedia_tower_Knights_Barracks.png/revision/latest?cb=20170817222430"
+<img src="https://static.wikia.nocookie.net/kingdomrushtd/images/d/d6/Pedia_tower_Knights_Barracks.png/revision/latest?cb=20170817222430">
     <br>
 <img src="https://static.wikia.nocookie.net/kingdomrushtd/images/c/ce/EnemySqr_DemonSwapn.png/revision/latest?cb=20170815193300">
 
@@ -28,6 +28,6 @@ to be continued...
     <br>
     <br>
     <br>
-(Images property of Ironhide Studio: <a href="https://www.ironhidegames.com/"> Something </a>)
+(Images property of Ironhide Studio: <a href="https://www.ironhidegames.com/"> website </a>)
     <br>
-Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA): <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"> Something </a>
+Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA): <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"> License </a>
