@@ -21,9 +21,9 @@ The Emphyerian Confederation, meanwhile, strenthened, as settlements became town
     to be continued...
     <br>
     <br>
-    <img src="EnemySqr_DemonSwapn.webp" class="img-responsive" alt=""> </div>
+    <img src="EnemySqr_DemonSwapn.png" class="img-responsive" alt="demon troops">
     <br>
-    <img src="Pedia_tower_Knights_Barracks.webp" class="img-responsive" alt=""> </div>
+    <img src="Pedia_tower_Knights_Barracks.png" class="img-responsive" alt="human troops">
     <br>
     <br>
     <br>
