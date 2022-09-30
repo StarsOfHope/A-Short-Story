@@ -3,7 +3,10 @@
 <head>
 
 </head>
-
+<style>
+h1 {color:red}
+body {background:#C3D17F}
+</style>
 <body>
 
 <h1> <em> Early Years of the Confederation </em> </h1> 
