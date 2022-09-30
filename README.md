@@ -31,3 +31,5 @@ The Emphyerian Confederation, meanwhile, strenthened, as settlements became town
 Images property of Ironhide Studio: <a href="https://www.ironhidegames.com/"> website </a>
     <br>
 Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA): <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"> License </a>
+    <br>
+    *Website for educational purposes only*
