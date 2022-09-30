@@ -1,4 +1,5 @@
 # A Brief Chronicle of Emphyeria
+    <p> <marquee> archived records for scholars only </marquee> </p>
 <br>
 <br>
 <head>
@@ -8,7 +9,7 @@
 <body>
 
 <h1> <em> Early Years of the Confederation </em> </h1> 
-    <p> <marquee> archived records for scholars only </marquee> </p>
+
 <br>
 <p> What now is called the Emphyerian Confederation was founded in the north. Originally a vassal created by King Tirich the 6th as a buffer zone, Emphyeria was a vast and dismal place. Due to the harsh climate and poor soil, colonists relied on agricultural exports from the kingdom, though corruption often meant much-needed food and supplies disappeared along the way. Raids from the indigenous Kruskan tribes depleted the population, as colonial militias lacked weapons promised to them by the kingdom. This indifference by the Edelchian kingdom, however, had an unintended side effect. Surviving colonists gradually clustered in fortified settlements. Many of these settlements were near the only natural source of water in the land,the Sivyrean river. With the help of friendly Kruskans, native food sources such as okyrangs, a round, orange vegetable that grew in the soil, were cultivated. Aerydium seams were discovered by some colonists. This sturdy mineral, though not valuable, was used to build houses and forts. Trade networks exchanging goods, such as aerydium and okyrangs, between colonies soon followed, facilitated by water trasnport on the Sivyrean river. Settlements developed semi-democratic self-governing councils in absense of royal Edelchian overseers. The Emphyerian Confederation was born. Though life was hard, the colonists survived. That is, until King Xypheris took power. </p>
     <br>
