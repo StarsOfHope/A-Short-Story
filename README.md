@@ -1,5 +1,5 @@
 # A Brief Chronicle of Emphyeria
-    <p> <marquee> archived records for scholars only </marquee> </p>
+ <marquee> archived records for scholars only </marquee>
 <br>
 <br>
 <head>
