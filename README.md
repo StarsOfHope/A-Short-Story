@@ -16,6 +16,8 @@
 <p> Ever since his parents were killed in the demon invasion a few decades ago, Prince Xypheris was obssessed with finding a way to the demon's dominion for revenge. Many influential nobles objected to the prince's crowning, who they regarded as an incompetent brat chasing an impossible fantasy. The kingdom had barely managed to fend off the otherworldly invaders, even with the help of magically-enhanced heroes. To start another war with them was suicidal. Records state that the heroes sealed the demon's portal, though no one knew how long that would last. These dissenters were quickly silenced, as the now king Xypheris began amassing a large army to invade the demon's dominion. Anti-demon propoganda was spread throughout the kingdom in an attempt to win public support. Finally, the day came to start his assault. </p>
     
 The Emphyerian Confederation, meanwhile, strenthened, as settlements became towns and towns became cities. It was a miracle for civilization to develop in the barren wastelands of the north. Unfortunately, when Emphyerian leaders refused Xypheris' calls for soldiers, Eldechian military forces started consolidating at the Emphyerian borders. To Xypheris, refusal was tantamount to treason. He planned to make an example of Emphyeria before launching his crusade. Unbeknownst to the human nations, major events were unfolding in the demon's dominion. A poewrful demon queen has arisen among her people, ending the endless fighting of the demon clans after their failed invasion. Gathering her forces, she patiently waited for the human nations to weaken. Finally, the human menace will be vanquished, with the heroes no longer alive to save them. She will bring salvation for her demon brethren as the plentiful resources of the human world will be theirs. Her name is Queen Sakrieon.
+    <br>
+    to be continued...
     
 <img src="https://static.wikia.nocookie.net/kingdomrushtd/images/d/d6/Pedia_tower_Knights_Barracks.png/revision/latest?cb=20170817222430">
     <br>
@@ -23,10 +25,8 @@ The Emphyerian Confederation, meanwhile, strenthened, as settlements became town
 
 <br>
     <br>
-to be continued...
     <br>
     <br>
-    <br>
-(Images property of Ironhide Studio: <a href="https://www.ironhidegames.com/"> website </a>)
+Images property of Ironhide Studio: <a href="https://www.ironhidegames.com/"> website </a>
     <br>
 Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA): <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode"> License </a>
